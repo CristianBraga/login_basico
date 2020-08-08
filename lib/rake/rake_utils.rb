@@ -4,10 +4,10 @@
 module RakeUtils
 
   TEST_AREAS = %w[
-    teste_olx td
+    teste_acesso td
   ].freeze
 
-  DEFAULT_TEST_AREA = 'teste_olx'.freeze
+  DEFAULT_TEST_AREA = 'teste_acesso'.freeze
 
   module_function
 
